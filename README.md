@@ -1,4 +1,4 @@
-🛍️ Easy Shop Catalog
+EasyShop Catalog
 1. AIM
 
 The aim of this project is to create a modern, responsive product catalog web application that allows users to browse, search, and filter products easily.
@@ -6,24 +6,24 @@ It also includes a demo Admin Mode where new products can be added or deleted (m
 
 2. FEATURES
 
-🌈 Attractive UI with a glassmorphism design and gradient theme.
+ Attractive UI with a glassmorphism ddesignand gradient theme.
 
-🔍 Search and filter products by name or category.
+ Search and filter products by name or category.
 
-🧾 Product details such as name, price, category, and image displayed dynamically.
+ Product details such as name, price, category, and image displayed dynamically.
 
-👨‍💼 Admin mode toggle — switch between user and admin view.
+ Admin mode toggle — switch between user and admin view.
 
-➕ Add new products (mock demo form).
+ Add new products (mock demo form).
 
-❌ Delete products (mock demo functionality).
+ Delete products (mock demo functionality).
 
-⚡ Real-time data fetched from FakeStoreAPI
+ Real-time data fetched from FakeStoreAPI
 .
 
-📱 Responsive design — works seamlessly on mobile and desktop.
+ Responsive design — works seamlessly on mobile and desktop.
 
-🧠 Accessibility support with keyboard navigation and tooltips.
+Accessibility support with keyboard navigation and tooltips.
 
 3. TECHNOLOGY
 
@@ -37,7 +37,7 @@ Libraries: Axios
 
 Hosting: Vercel
 
-🧩 How to Run Locally
+  How to Run Locally
 
 Clone this repository:
 
